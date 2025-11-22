@@ -172,6 +172,14 @@ Employee-Management-System/
    - Remove employees
 
 ## Screenshots
+<img width="551" height="314" alt="Screenshot 2025-11-22 180215" src="https://github.com/user-attachments/assets/a6eacf78-ddcc-4cf9-a178-00a17f3dc3a4" />  
+<img width="577" height="282" alt="Screenshot 2025-11-22 180222" src="https://github.com/user-attachments/assets/178406dd-2a1c-43cb-bf4b-2f759ff10845" />
+<img width="449" height="356" alt="Screenshot 2025-11-22 180230" src="https://github.com/user-attachments/assets/90635a24-ac45-4bf6-bc81-9ade003de530" />
+<img width="624" height="145" alt="Screenshot 2025-11-22 180237" src="https://github.com/user-attachments/assets/5c87b6d4-0018-4673-8904-faa6917671cc" />
+<img width="349" height="386" alt="Screenshot 2025-11-22 180246" src="https://github.com/user-attachments/assets/00a93187-00f4-47bb-87e5-bb665dd9cd39" />
+<img width="446" height="344" alt="Screenshot 2025-11-22 180259" src="https://github.com/user-attachments/assets/6c793dff-e605-4dfb-aec1-dba4ac01bfc2" />
+<img width="534" height="209" alt="Screenshot 2025-11-22 180306" src="https://github.com/user-attachments/assets/b593b425-c0fa-4630-85b2-17b3e0097dbb" />
+
 
 The application includes:
 - An animated splash screen with the application title
